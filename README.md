@@ -1,4 +1,4 @@
-# AnimationButton
+# Enchant Buttons
 
 Elevate your Flutter UI with smooth and interactive animated buttons using the EnchantButton
 package. This package provides a collection of customizable buttons with eye-catching animations,
